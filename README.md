@@ -1,2 +1,1 @@
-Anyone who has never made a mistake has never tried anything new.
-
+A small change made to the file.
